@@ -1,0 +1,22 @@
+{
+  "name": "price-deviation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "oracle": "node oracle.js",
+    "dex": "node dex.js",
+    "all": "npm run oracle & npm run dex"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "playwright": "^1.51.1",
+    "random-useragent": "^0.5.0"
+  }
+}

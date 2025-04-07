@@ -1,0 +1,352 @@
+[
+  {
+    "symbol": "BTC",
+    "price": 79066.79803440001,
+    "timestamp": "2025-04-07 18:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744048800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 77403.4744225,
+    "timestamp": "2025-04-07 17:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744045200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78461,
+    "timestamp": "2025-04-07 16:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744041600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78983.48715415,
+    "timestamp": "2025-04-07 15:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744038000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78306.8196555,
+    "timestamp": "2025-04-07 14:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744034400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 77239.92184454,
+    "timestamp": "2025-04-07 13:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744030800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 76648.5980115,
+    "timestamp": "2025-04-07 12:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744027200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 76945.49225448474,
+    "timestamp": "2025-04-07 11:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744023600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 76233.86141993,
+    "timestamp": "2025-04-07 10:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744020000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 76197.482460295,
+    "timestamp": "2025-04-07 09:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744016400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 75059.17734818917,
+    "timestamp": "2025-04-07 08:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744012800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 74743.10466142462,
+    "timestamp": "2025-04-07 07:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744009200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 76883.43910735,
+    "timestamp": "2025-04-07 06:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744005600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 76936.7969552,
+    "timestamp": "2025-04-07 05:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1744002000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 77677.831944,
+    "timestamp": "2025-04-07 04:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743998400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78402.2203224,
+    "timestamp": "2025-04-07 03:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743994800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 79097.71075415,
+    "timestamp": "2025-04-07 02:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743991200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78268.21184517999,
+    "timestamp": "2025-04-07 01:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743987600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78361.769348,
+    "timestamp": "2025-04-07 00:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743984000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78012.32050059053,
+    "timestamp": "2025-04-06 23:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743980400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78912.644136525,
+    "timestamp": "2025-04-06 22:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743976800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 78814.9958395,
+    "timestamp": "2025-04-06 21:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743973200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 79605,
+    "timestamp": "2025-04-06 20:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743969600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 79037.09,
+    "timestamp": "2025-04-06 19:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743966000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 80769.27,
+    "timestamp": "2025-04-06 18:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743962400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 81951.4335786,
+    "timestamp": "2025-04-06 17:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743958800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82530.3983549,
+    "timestamp": "2025-04-06 16:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743955200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82629.52578783,
+    "timestamp": "2025-04-06 15:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743951600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82269.72944614016,
+    "timestamp": "2025-04-06 14:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743948000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82656.8501332834,
+    "timestamp": "2025-04-06 13:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743944400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82812.0700253,
+    "timestamp": "2025-04-06 12:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743940800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82829.922544,
+    "timestamp": "2025-04-06 11:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743937200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83033.10397916,
+    "timestamp": "2025-04-06 10:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743933600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82996.85451782,
+    "timestamp": "2025-04-06 09:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743930000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82992,
+    "timestamp": "2025-04-06 08:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743926400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83082.30658678763,
+    "timestamp": "2025-04-06 07:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743922800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83413.62579564,
+    "timestamp": "2025-04-06 06:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743919200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83468.26999999999,
+    "timestamp": "2025-04-06 05:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743915600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83313.41828879999,
+    "timestamp": "2025-04-06 04:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743912000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83269.16900370001,
+    "timestamp": "2025-04-06 03:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743908400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83403.014102,
+    "timestamp": "2025-04-06 02:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743904800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83494.05506347954,
+    "timestamp": "2025-04-06 01:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743901200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83505.7595552,
+    "timestamp": "2025-04-06 00:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743897600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83154.98732976,
+    "timestamp": "2025-04-05 23:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743894000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82883.42466965999,
+    "timestamp": "2025-04-05 22:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743890400000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83042.62726292954,
+    "timestamp": "2025-04-05 21:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743886800000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82826.11822413967,
+    "timestamp": "2025-04-05 20:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743883200000
+  },
+  {
+    "symbol": "BTC",
+    "price": 83005.7440506,
+    "timestamp": "2025-04-05 19:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743879600000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82838.1985142025,
+    "timestamp": "2025-04-05 18:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743876000000
+  },
+  {
+    "symbol": "BTC",
+    "price": 82717,
+    "timestamp": "2025-04-05 17:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1743872400000
+  }
+]
