@@ -1,29 +1,69 @@
-# Price Deviation Calculator
+# 📉 Price Deviation Calculator
 
-This project calculates the price deviation between Oracle and DEX (Decentralized Exchange) data for various cryptocurrency trading pairs (BTC/USDT, ETH/USDT, PEPE/USDT, DOGE/USDT). The deviation is calculated as the maximum relative difference between Oracle and DEX prices over a specified time period.
+This project calculates the **price deviation** between Oracle data (RedStone) and Decentralized Exchange (DEX) data (CoinGecko) for the following trading pairs:
 
-## Project Overview
-
-The project consists of scripts to:
-- Aggregate hourly DEX price data.
-- Compare Oracle and DEX prices to calculate the maximum deviation.
-- Save the results in the `deviation` directory as JSON files.
-
-The data used in this project spans from `2025-04-05 18:00:00` to `2025-04-07 18:00:00` and includes the following trading pairs:
 - BTC/USDT
 - ETH/USDT
 - PEPE/USDT
 - DOGE/USDT
 
-## Prerequisites
+The deviation is computed as the **maximum relative difference** between the hourly aggregated DEX price and the Oracle price over a given time range.
 
-To run this project, you need to have the following installed:
-- [Node.js](https://nodejs.org/) (version 14 or higher recommended)
-- [Git](https://git-scm.com/) (to clone the repository)
+---
 
-## Installation
+## 🧩 Project Overview
 
-1. **Clone the repository**:
+The repository consists of three key scripts:
+
+- `oracle.js` — Fetches hourly price data from the [RedStone Oracle API](https://api.redstone.finance).
+- `dex.js` — Downloads minute-by-minute price data from [CoinGecko](https://www.coingecko.com/ru/api/dex) and aggregates it to hourly resolution.
+- `deviation.js` — Matches timestamps and computes the price deviation ($d_{A/B}$) for each trading pair.
+
+Output JSON files are saved into the `/deviation` folder in the format:
+
+```json
+{
+  "symbol": "BTC/USDT",
+  "maxDeviation": 0.01234
+}
+```
+
+## 📦 Installation
+```bash
+git clone https://github.com/Lisavetti/price-deviation.git
+cd price-deviation
+npm install
+```
+
+## 🚀 Usage
+You can run all scripts manually or through npm commands:
+
+1. Fetch data from RedStone Oracle:
    ```bash
-   git clone https://github.com/lizaveta-yemets/price-deviation.git
-   cd price-deviation
+   npm run oracle
+   ```
+
+2. Fetch DEX prices from CoinGecko:
+   ```bash
+   npm run dex
+   ```
+   
+3. Calculate price deviation:
+   ```bash
+   node deviation.js
+   ```
+
+
+## 📁 Project Structure
+
+```plaintext
+price-deviation/
+├── oracle.js           # Oracle price data fetcher
+├── dex.js              # DEX price data fetcher + hourly aggregator
+├── deviation.js        # Main script to compute price deviation
+├── oracle-price/       # Saved RedStone Oracle data
+├── dex-price/          # Saved CoinGecko price data
+├── deviation/          # Final deviation results (JSON)
+├── package.json
+└── playwright.config.js
+
