@@ -68,8 +68,8 @@ function calculateDeviationForSymbol(symbol) {
   const dexHourlyData = aggregateDexDataToHourly(dexData);
   console.log(`DEX данные после агрегации для ${symbol}: ${dexHourlyData.length} точек`);
 
-  const startPeriod = new Date('2025-04-05T18:00:00.000Z').getTime();
-  const endPeriod = new Date('2025-04-07T18:00:00.000Z').getTime();
+  const startPeriod = new Date('2025-07-28 15:00:00').getTime();
+  const endPeriod = new Date('2025-07-30 15:00:00').getTime();
 
   const filteredOracleData = oracleData
     .map(point => ({
@@ -114,9 +114,10 @@ function calculateDeviationForSymbol(symbol) {
 
 function calculateDeviationsForAll() {
   const symbols = ['BTC', 'ETH', 'PEPE', 'DOGE'];
+  const newSymbols = ['DAI', 'MATIC'];
   const results = {};
 
-  for (const symbol of symbols) {
+  for (const symbol of newSymbols) {
     try {
       const maxDeviation = calculateDeviationForSymbol(symbol);
       results[`${symbol}/USDT`] = maxDeviation;

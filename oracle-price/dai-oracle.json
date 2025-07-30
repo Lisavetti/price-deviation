@@ -1,0 +1,345 @@
+[
+  {
+    "symbol": "DAI",
+    "price": 0.99996796,
+    "timestamp": "2025-07-30 15:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753887600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1.0000799995,
+    "timestamp": "2025-07-30 14:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753884000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1,
+    "timestamp": "2025-07-30 13:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753880400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1.000039988,
+    "timestamp": "2025-07-30 12:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753876800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99987,
+    "timestamp": "2025-07-30 11:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753873200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1.0000849985,
+    "timestamp": "2025-07-30 10:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753869600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99994,
+    "timestamp": "2025-07-30 09:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753866000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99986900222,
+    "timestamp": "2025-07-30 08:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753862400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1.00015496085,
+    "timestamp": "2025-07-30 07:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753858800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999953,
+    "timestamp": "2025-07-30 06:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753855200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9999699892,
+    "timestamp": "2025-07-30 05:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753851600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99984,
+    "timestamp": "2025-07-30 04:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753848000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999823,
+    "timestamp": "2025-07-30 03:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753844400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999784,
+    "timestamp": "2025-07-30 02:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753840800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9998754905,
+    "timestamp": "2025-07-30 01:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753837200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99985,
+    "timestamp": "2025-07-30 00:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753833600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999867,
+    "timestamp": "2025-07-29 23:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753830000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999819972,
+    "timestamp": "2025-07-29 22:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753826400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9998749889,
+    "timestamp": "2025-07-29 21:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753822800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999817986965,
+    "timestamp": "2025-07-29 20:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753819200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999777,
+    "timestamp": "2025-07-29 19:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753815600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999909981,
+    "timestamp": "2025-07-29 18:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753812000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1,
+    "timestamp": "2025-07-29 17:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753808400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1.000029997,
+    "timestamp": "2025-07-29 16:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753804800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999915,
+    "timestamp": "2025-07-29 15:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753801200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9999544688834,
+    "timestamp": "2025-07-29 14:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753797600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9999449985,
+    "timestamp": "2025-07-29 13:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753794000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9999429993,
+    "timestamp": "2025-07-29 12:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753790400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99998,
+    "timestamp": "2025-07-29 11:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753786800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99988049,
+    "timestamp": "2025-07-29 10:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753783200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1.00004399712,
+    "timestamp": "2025-07-29 09:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753779600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999959,
+    "timestamp": "2025-07-29 08:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753776000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9998951,
+    "timestamp": "2025-07-29 07:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753772400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9999664982,
+    "timestamp": "2025-07-29 06:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753768800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99985003,
+    "timestamp": "2025-07-29 05:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753765200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99982113988421,
+    "timestamp": "2025-07-29 04:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753761600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999880002,
+    "timestamp": "2025-07-29 03:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753758000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999955,
+    "timestamp": "2025-07-29 02:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753754400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999890001,
+    "timestamp": "2025-07-29 01:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753750800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999880002,
+    "timestamp": "2025-07-29 00:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753747200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99991,
+    "timestamp": "2025-07-28 23:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753743600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999958,
+    "timestamp": "2025-07-28 22:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753740000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999989,
+    "timestamp": "2025-07-28 21:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753736400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9999350025,
+    "timestamp": "2025-07-28 20:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753732800000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99982600704,
+    "timestamp": "2025-07-28 19:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753729200000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99971,
+    "timestamp": "2025-07-28 18:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753725600000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.999770006,
+    "timestamp": "2025-07-28 17:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753722000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.99971,
+    "timestamp": "2025-07-28 16:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753718400000
+  },
+  {
+    "symbol": "DAI",
+    "price": 0.9996732,
+    "timestamp": "2025-07-28 15:00:00",
+    "permawebTx": "mock-permaweb-tx",
+    "rawTimestamp": 1753714800000
+  }
+]

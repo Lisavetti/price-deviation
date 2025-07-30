@@ -66,8 +66,9 @@ async function getHistoricalPricesForSymbol(symbol) {
 
 async function getHistoricalPrices() {
   const symbols = ['ETH', 'BTC', 'PEPE', 'DOGE'];
+  const newSymbols = ['DAI', 'MATIC'];
 
-  for (const symbol of symbols) {
+  for (const symbol of newSymbols) {
     try {
       await getHistoricalPricesForSymbol(symbol);
     } catch (error) {

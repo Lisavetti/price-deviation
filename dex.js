@@ -14,6 +14,16 @@ const coinPairs = {
   "pepe-usdt": "pepe"
 };
 
+const newCoinPairs = {
+  // new direct pairs
+  "matic-usdt": "matic-network",
+  "dai-usdt":   "dai",
+
+  // new inverse pairs (same ID, invert later)
+  "usdt-matic": "matic-network",
+  "usdt-dai":   "dai"
+};
+
 async function fetchPrices(coinId, days = 2) {
   const url = `https://api.coingecko.com/api/v3/coins/${coinId}/market_chart`;
   const userAgent = randomUseragent.getRandom();
@@ -41,7 +51,7 @@ async function saveAllPairs() {
     fs.mkdirSync(outputDir);
   }
 
-  for (const [pair, coinId] of Object.entries(coinPairs)) {
+  for (const [pair, coinId] of Object.entries(newCoinPairs)) {
     try {
       console.log(`📥 Загружаем данные для ${pair}...`);
       const prices = await fetchPrices(coinId, 2);
